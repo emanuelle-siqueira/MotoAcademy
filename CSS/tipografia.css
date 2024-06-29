@@ -1,0 +1,12 @@
+.paragrafo {
+    color: rgb(15, 15, 116);
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.paragrafo-principal{
+    color: coral;
+    font-size: 50px;
+    text-transform: uppercase;
+}

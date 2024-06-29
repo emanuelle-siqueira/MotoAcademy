@@ -1,0 +1,7 @@
+.paragrafo {
+    text-transform: lowercase;
+    color: blue;
+    font: 15px;
+    font-family: Arial, sans-serif;
+    border: 1px solid green;
+}
