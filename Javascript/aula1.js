@@ -40,18 +40,18 @@
 //teste();
 //console.log(variavelGlobal);
 
-const aluno = 'Emanuelle'
-if(aluno == 'Emanuelle') {
-    console.log('Emanuelle');
-}
-else {
-    console.log('Fabar');
-}
-
-const numero = 22;
-if (numero === '22'){
-    console.log('Ele é igual a 22');
-}
-else {
-    console.log('Não eh...');
-}
+//const aluno = 'Emanuelle'
+//if(aluno == 'Emanuelle') {
+//    console.log('Emanuelle');
+//}
+//else {
+//    console.log('Fabar');
+//}
+//
+//const numero = 22;
+//if (numero === '22'){
+//    console.log('Ele é igual a 22');
+//}
+//else {
+//    console.log('Não eh...');
+//}
