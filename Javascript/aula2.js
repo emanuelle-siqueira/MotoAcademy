@@ -96,3 +96,12 @@ pessoas.map((pessoa) => { //funcao criada com parametros
         console.log(pessoa);
     }
 })
+
+/*
+Arrays:
+[A B C B].map([ABC] -> B) --> [B B B B]
+[A B C B].filter([ABC] === C) --> [C]
+[A B C B].join("-") --> "A-B-C-B"
+[A B].concat([C B]) --> [A B C B]
+[A B[C B]].flat() --> [A B C B]
+*/ 
