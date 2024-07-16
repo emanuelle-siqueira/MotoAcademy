@@ -1,7 +1,7 @@
 /*
 Arrays:
-[A B C B].map([ABC] -> B) --> [B B B B]
-[A B C B].filter([ABC] === C) --> [C]
+[A B C B].map([ABC] -> B) --> [B B B B] ***** mais utilizado
+[A B C B].filter([ABC] === C) --> [C] ***** tmb mais utilizado, com varias outras "ramificações"
 [A B C B].join("-") --> "A-B-C-B"
 [A B].concat([C B]) --> [A B C B]
 [A B[C B]].flat() --> [A B C B]
@@ -14,7 +14,7 @@ Arrays:
 [N P Q P P].pop() --> [N P Q P] === tira no fim
 [N P Q P P].shift() --> [P Q P P] === tira no inicio
 [N P Q P].sort(P) --> [N P P Q]
-[N P Q P].fil(Q, 1) --> [N Q Q Q]
+[N P Q P].fill(Q, 1) --> [N Q Q Q]
 */ 
 
 // -------- PRATICA -------
