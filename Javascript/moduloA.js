@@ -21,4 +21,16 @@ const pessoa = {
     cidade: "Manaus"
 }
 
-module.exports = pessoa
+const array = [
+    {
+        time: "Flamengo",
+        titulo: "Lider"
+    },
+
+    {
+        time: "Vasco",
+        titulo: "time de base"
+    }
+]
+
+module.exports =  array

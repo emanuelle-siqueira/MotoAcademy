@@ -12,7 +12,13 @@
 
 const moduloA = require('./moduloA');
 
+//console.log(moduloA);
+//console.log(moduloA.nome);
+//console.log(moduloA.idade);
+//console.log(moduloA.cidade);
+
 console.log(moduloA);
-console.log(moduloA.nome);
-console.log(moduloA.idade);
-console.log(moduloA.cidade);
+
+moduloA.map((item) => {
+    console.log(item.time);
+})
